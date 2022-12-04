@@ -12,7 +12,7 @@ ingress:
   enabled: true
   path: /nyan
   hosts:
-    - localhost
+    - karlkabal.jracorp.net
 
 resources:
   limits:
